@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 27 14:10:22 2020
-
-@author: GUPTAS2Q
-"""
 
 import pandas as pd
 from wordcloud import WordCloud, STOPWORDS
